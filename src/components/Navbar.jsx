@@ -1,8 +1,12 @@
+import favicon from '../img/favicon.svg';
+
 const Navbar = () => {
 	return (
-		<main>
-			<h1>Navbar content goes here</h1>
-		</main>
+		<nav>
+			<img src={favicon} alt='React Logo' />
+			<h1>ReactFacts</h1>
+			<h2>React Course - Project 1</h2>
+		</nav>
 	);
 };
 

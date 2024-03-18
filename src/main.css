@@ -11,7 +11,7 @@ html {
 nav {
 	height: 100px;
 	width: 100%;
-	background-color: #f5f5f5;
+	background-color: #21222a;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
@@ -25,7 +25,13 @@ nav {
 
 .logo h1 {
 	margin-left: 10px;
+	color: #5fdbfd;
 }
 .logo img {
 	width: 60px;
+}
+
+.title {
+	color: #e0ebf6;
+	margin-right: 20px;
 }

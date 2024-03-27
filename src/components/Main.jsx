@@ -10,7 +10,7 @@ const Main = () => {
 				<li>Powers thousands of enterprise apps, including mobile apps</li>
 			</ul>
 
-			<img src='./src/img/favicon.svg' alt='' />
+			<img className='bg-logo' src='./src/img/favicon.svg' alt='React logo' />
 		</main>
 	);
 };
